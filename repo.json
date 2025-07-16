@@ -1,0 +1,8 @@
+{
+    "name": "Waduk Repo",
+    "description": "Cloudstreme Waduk Repo",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/blob/builds/plugins.json"
+    ]
+}
