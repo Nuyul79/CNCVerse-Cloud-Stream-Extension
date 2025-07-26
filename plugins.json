@@ -220,5 +220,22 @@
         "description": "480p, 720p, 1080p Full Movies In SkymoviesHD",
         "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/SkymoviesHD.cs3",
         "name": "SkymoviesHD"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javhdz.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 11358,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "JavHDProvider",
+        "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/JavHDProvider.cs3",
+        "name": "JavHDProvider"
     }
 ]
