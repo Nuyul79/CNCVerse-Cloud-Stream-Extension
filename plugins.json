@@ -297,23 +297,21 @@
         "name": "StremioX"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.pinoy-hd.xyz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 12345,
+        "fileSize": 27173,
         "status": 1,
         "language": "tl",
         "authors": [
             "Jace"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "Movie"
+            "AsianDrama"
         ],
-        "version": 1,
-        "internalName": "PinoyHDXyzProvider",
-        "description": "Pinoy HD Movies - High Definition",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PinoyHDXyzProvider.cs3",
-        "name": "PinoyHDXyzProvider"
+        "version": 3,
+        "internalName": "PinoyMovies",
+        "description": "Includes PinoyMoviePediaProvider and PinoyMoviesEsProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PinoyMovies.cs3",
+        "name": "PinoyMovies"
     }
 ]
