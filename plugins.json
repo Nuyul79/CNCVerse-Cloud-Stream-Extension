@@ -199,5 +199,26 @@
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
         "name": "KisskhProvider"
+    },
+    {
+        "iconUrl": "https://skymovieshd.diy/images/logo2.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 15348,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "Redowan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "NSFW"
+        ],
+        "version": 14,
+        "internalName": "SkymoviesHD",
+        "description": "480p, 720p, 1080p Full Movies In SkymoviesHD",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/SkymoviesHD.cs3",
+        "name": "SkymoviesHD"
     }
 ]
