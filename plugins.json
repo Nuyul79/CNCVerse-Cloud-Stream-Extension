@@ -220,5 +220,45 @@
         "description": "480p, 720p, 1080p Full Movies In SkymoviesHD",
         "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/SkymoviesHD.cs3",
         "name": "SkymoviesHD"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 43252,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 26,
+        "internalName": "UHDmoviesProvider",
+        "description": "Indian Multi-language 4K Provider",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
+        "name": "UHDmoviesProvider"
+    },
+    {
+        "iconUrl": "https://cat3movie.org/wp-content/themes/hnzphim/public/images/MainPoster.f0fe51.webp",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 12658,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "salman731"
+        ],
+        "tvTypes": [
+            "Movie",
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Cat3Movie",
+        "description": "Movies 18+ ,Rare Movies and selected from all genres online for free, updated daily.",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/Cat3Movie.cs3",
+        "name": "Cat3Movie"
     }
 ]
