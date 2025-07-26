@@ -3,6 +3,6 @@
     "description": "Cloudstreme Waduk Repo",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Nuyul79/CNCVerse-Cloud-Stream-Extension/refs/heads/Builds/plugins.json"
+      "https://raw.githubusercontent.com/Nuyul79/CS3-Repo/refs/heads/Builds/plugins.json"
     ]
 }
