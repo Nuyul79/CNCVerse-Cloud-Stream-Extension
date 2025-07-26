@@ -237,5 +237,23 @@
         "internalName": "JavHDProvider",
         "url": "https://gitlab.com/tearrs/nsfw/-/raw/main/JavHDProvider.cs3",
         "name": "JavHDProvider"
+    },
+    {
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNbHVRf6dP8WtRK-SzwmuD-aeiyyD9MuLEg&s",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 22113,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Sora"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 6,
+        "internalName": "Nekopoi",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nekopoi.cs3",
+        "name": "Nekopoi"
     }
 ]
