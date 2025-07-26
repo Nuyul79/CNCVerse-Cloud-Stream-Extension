@@ -260,5 +260,25 @@
         "description": "Movies 18+ ,Rare Movies and selected from all genres online for free, updated daily.",
         "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/Cat3Movie.cs3",
         "name": "Cat3Movie"
+    },
+    {
+        "iconUrl": "https://www.film1k.com/wp-content/uploads/2023/05/cropped-film1k-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 10097,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "Film1K"
+        ],
+        "tvTypes": [
+            "Movie",
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "Film1K",
+        "description": "Watch Full Sexiest Movie For Free",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/Film1K.cs3",
+        "name": "Film1K"
     }
 ]
