@@ -313,5 +313,27 @@
         "description": "Includes PinoyMoviePediaProvider and PinoyMoviesEsProvider",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PinoyMovies.cs3",
         "name": "PinoyMovies"
+    },
+    {
+        "iconUrl": "https://new.ngefilm.site/wp-content/uploads/2022/06/20220602_221251.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 16522,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Ngefilm",
+        "description": "Ngefilm",
+        "url": "https://raw.githubusercontent.com/Nuyul79/CS3-Repo/refs/heads/Builds/Ngefilm.cs3",
+        "name": "Ngefilm"
     }
 ]
